@@ -1,2 +1,2 @@
 # allDemo
-my first time of using git
+git技能get
